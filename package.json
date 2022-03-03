@@ -1,19 +1,23 @@
 {
-  "name": "nodejs-server-wn22-1",
-  "version": "1.0.0",
-  "description": "Our first node.js project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/newmanix/nodejs-server-wn22-10.git"
-  },
-  "author": "Bill Newman",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/newmanix/nodejs-server-wn22-10/issues"
-  },
-  "homepage": "https://github.com/newmanix/nodejs-server-wn22-10#readme"
+    "name": "ola-express-wn22-1",
+    "version": "1.0.0",
+    "description": "Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Azzyman99/ola-express-wn22-10"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Azzyman99/ola-express-wn22-10issues"
+    },
+    "homepage": "https://github.com/Azzyman99/ola-express-wn22-10#readme",
+    "dependencies": {
+        "express": "^4.17.3"
+    }
 }
